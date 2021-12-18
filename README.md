@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NenadZivotic
+- 👀 I’m interested in frontend development mainly
+- 🌱 I’m currently learning solidity
+- 📫 You can reach me via email nenadzivotic94@gmail.com
