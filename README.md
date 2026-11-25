@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @NenadZivotic
-- 👀 I’m interested in frontend development mainly
+- 👀 I’m interested in fullstack development 
 - 📫 You can reach me via email nenadzivotic94@gmail.com
